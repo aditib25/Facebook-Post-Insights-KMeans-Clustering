@@ -1,1 +1,1 @@
-# Facebook-Post-Insights-KMeans-Clustering
+Unsupervised learning project analyzing Facebook post metrics to identify engagement patterns. Performed data preprocessing, exploratory data analysis (EDA), and feature selection using a correlation heatmap. Implemented KMeans clustering with the elbow method for optimal cluster determination, applied Principal Component Analysis (PCA) for dimensionality reduction, and addressed outliers, achieving a silhouette score of 0.6025. The project offers insights into post interactions and clustering performance.
